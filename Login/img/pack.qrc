@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Img">
+    <file>apoyo.png</file>
+  </qresource>
+</RCC>

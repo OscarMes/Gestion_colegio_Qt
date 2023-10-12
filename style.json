@@ -1,0 +1,102 @@
+{
+	"QCustomSlideMenu": [{
+		"name": "frm_contenedor_agregar",
+		"defaultSize": [{
+			"width": 0,
+			"height":0
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": 0
+		}],
+		"expandedSize": [{
+			"width": 120,
+			"height": 100
+		}],
+		"toggleButton": [{
+			"buttonName": "btn_add",
+
+		
+			"style": [{
+				"whenMenuIsCollapsed": [
+					"background-color: rgb(8, 68, 164);"
+				],
+				"whenMenuIsExpanded": [
+					"background-color: rgb(8, 68, 164);"
+				]
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 1000,
+			"animationEasingCurve": "Linear",
+			"whenCollapsing": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "Linear"
+			}],
+			"whenExpanding": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "OutInBack"
+			}]
+		}]
+	},
+	
+	{
+		"name": "frm_contenedor_gestionar_pri",
+		"defaultSize": [{
+			"width": 0,
+			"height":0
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": 0
+		}],
+		"expandedSize": [{
+			"width": 120,
+			"height": 100
+		}],
+		"toggleButton": [{
+			"buttonName": "btn_gestion",
+			
+		
+			"style": [{
+				"whenMenuIsCollapsed": [
+					"background-color: rgb(8, 68, 164);"
+				],
+				"whenMenuIsExpanded": [
+					"background-color: rgb(8, 68, 164);"
+				]
+			}]
+		}],
+		
+		"menuTransitionAnimation": [{
+			"animationDuration": 500,
+			"animationEasingCurve": "Linear",
+			"whenCollapsing": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "Linear"
+			}],
+			"whenExpanding": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "OutInBack"
+			}]
+		}]
+	},{
+		
+		"menuTransitionAnimation": [{
+			"animationDuration": 500,
+			"animationEasingCurve": "Linear",
+			"whenCollapsing": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "Linear"
+			}],
+			"whenExpanding": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "OutInBack"
+			}]
+		}]
+	}]
+}
+
+	
+
+

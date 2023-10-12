@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/barra_agregar.PNG</file>
+    <file>icons/titulo_agregar_estudiantes.PNG</file>
+    <file>icons/titulo_gestion_estudiantes.PNG</file>
+    <file>icons/frase_menu_inicio.PNG</file>
+    <file>icons/barra_inicio.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/configurar.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/expand.png</file>
+    <file>icons/follow.png</file>
+    <file>icons/gestion-de-producto.png</file>
+    <file>icons/house.png</file>
+    <file>icons/minimize.png</file>
+  </qresource>
+</RCC>

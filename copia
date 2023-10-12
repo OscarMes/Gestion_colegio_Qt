@@ -1,0 +1,10 @@
+		"menuContainerStyle": [{
+			"whenMenuIsCollapsed": [
+				"border: 2px solid "
+			],
+			"whenMenuIsExpanded": [
+				"background-color: rgb(8, 68, 164); background-color: rgb(8, 68, 164);"
+			]
+		}]
+	}]
+}
